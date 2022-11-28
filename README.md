@@ -1,6 +1,4 @@
 # AntiVirusWin10
-Hi i am Chinh here. Do not hesitate to ask me!
-
 ## Plugin .Net Application
 In .Net application must have plugin prerequisite: bunifu5.0, excelMapper. 
 
