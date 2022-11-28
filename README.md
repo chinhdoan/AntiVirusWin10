@@ -1,4 +1,7 @@
 # AntiVirusWin10
+Project is created with :
+* Visual studio 2019 (.Net c# Application)
+* Pycharm ( Python 3.8)
 ## Plugin .Net Application
 In .Net application must have plugin prerequisite: bunifu5.0, excelMapper. 
 
