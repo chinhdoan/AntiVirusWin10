@@ -1,0 +1,6 @@
+D:\Resource Hacker\Changes.txt
+D:\Resource Hacker\ReadMe.txt
+D:\Resource Hacker\ResourceHacker.exe
+D:\Resource Hacker\ResourceHacker.ini
+D:\Resource Hacker\unins000.dat
+D:\Resource Hacker\unins000.exe

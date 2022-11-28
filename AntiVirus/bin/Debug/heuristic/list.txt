@@ -1,0 +1,4 @@
+C:\backup\s\AntiVirus\AntiVirus\bin\Debug\virus\Lab01-01.exe
+C:\backup\s\AntiVirus\AntiVirus\bin\Debug\virus\Lab01-02.exe
+C:\backup\s\AntiVirus\AntiVirus\bin\Debug\virus\Lab01-03.exe
+C:\backup\s\AntiVirus\AntiVirus\bin\Debug\virus\Lab01-04.exe
