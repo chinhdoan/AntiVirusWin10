@@ -1,16 +1,25 @@
 # AntiVirusWin10
 Hi i am Chinh here. Do not hesitate to ask me!
 
-To run this project successfully you need to install python 3.8 in your computer 
-<!-- .Net application --> 
+## Plugin .Net Application
 In .Net application must have plugin prerequisite: bunifu5.0, excelMapper. 
 
-<!-- Python --> 
+## Python Script
 After that you need to install some missing dependencies in python project,
+You can follow the sample below
+### Libraries
+* pandas
+* numpy 
+* scipy 
+* scikit
+* pefile
+* pickle
 
-# You can follow this sample below : 
+### Setup
+To run this project, install it locally using conda or pip (or use Anaconda Navigator to install the libraries packages and notebook).
 
-conda install python=3.8.3
+```
+$ conda install python=3.8.3
 $ conda install pandas numpy matplotlib notebook
 $ conda install pip
 
